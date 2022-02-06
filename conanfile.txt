@@ -1,5 +1,6 @@
 [requires]
 inja/3.3.0
+poco/1.11.1
 
 [generators]
 cmake
